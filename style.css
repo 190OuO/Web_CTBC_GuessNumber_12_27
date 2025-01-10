@@ -1,0 +1,44 @@
+@font-face {
+    font-family: "sc";
+    src: url(./Font/SC.ttf);
+}
+* {
+    font-family: "sc", 微軟正黑體;
+    margin: 0;
+    padding: 0;
+    color: #cdcdcd;
+}
+
+body {
+    background: #252525;
+}
+
+header {
+    text-align: center;
+    padding: 30px;
+}
+h1 {
+    font-size: 70px;
+}
+section {
+    text-align: center;
+}
+
+#number {
+    padding: 50px;
+    font-size: 60px;
+    color: #252525;
+    text-align: center;
+}
+
+button {
+    padding: 20px 100px;
+    margin-top: 20px;
+    color: #252525;
+    font-size: 30px;
+}
+
+.tip {
+    padding: 50px 0;
+    font-size: 60px;
+}
